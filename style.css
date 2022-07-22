@@ -1,0 +1,16 @@
+.j {
+   
+left: 100px;
+right: 0px;
+
+
+}
+body {
+    text-align: center;
+    background-color: blueviolet;
+}
+.j:hover {
+     
+left: 0px;
+right: 100px;
+}
